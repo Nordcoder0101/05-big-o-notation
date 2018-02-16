@@ -5,18 +5,15 @@
 
 Implement a `List` constructor.
 
+* implement `copy` as a method of your `List` constructor
+* implement `push` as a method of your `List` constructor
 * implement `pop` as a method of your `List` constructor
-* implement `forEach` as a method of your `List` constructor
-* **stretch:** implement `reduce` as a method of your `List` constructor
+* **stretch:** implement `map` and/or `filter` as a method of your `List` constructor
 
 ## Submission Instructions
 
-1. With your assigned partner, pseudocode your solution on the whiteboard. Take a picture of your proposed solution for your repo.
-1. Make a new branch and folder in your whiteboard challenge repository on GitHub. The name of the folder should be the same as the name of the challenge.
-1. This folder should contain:
-	- A file named `solution.js` which contains the JavaScript solution
-	- A picture of your pseudocoded solution from the whiteboarding exercise
-	- A `README.md` which includes the problem domain
-1. Complete the whiteboard challenge in your text editor, and verify that it's functional.
-1. Make a pull request from your working branch to your master branch.
-1. Submit a link to your PR on Canvas *or* submit a link to your `repo/daily-directory/solution.js`.
+1. Together with your assigned partner, pseudocode an implementation for a `List` constructor on the whiteboard.
+1. Your partner (or you) should then begin pseudocoding and whiteboarding the solution to a method implementation of their choice.
+1. Using the included `whiteboard-rubric.pdf`, evaluate your partner and provide feedback where necessary.
+1. Swap roles.
+1. Take a picture of your completed whiteboarding rubric and submit in Canvas.
